@@ -1,7 +1,7 @@
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/InstaCracker-CLI/count.svg" />
-</p>
+</p>officialnikitaroy
 
 <b align="center"> <h1> 💎InstaCracker - CLI </h1> </b>
 <img align="center" src="/pic/workspace.jpg">
